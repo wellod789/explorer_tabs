@@ -1,0 +1,7 @@
+# Line endings: keep Windows batch files as CRLF (cmd.exe can misparse LF-only .bat)
+* text=auto
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.cs text
+*.md text
+*.exe binary

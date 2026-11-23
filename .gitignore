@@ -1,0 +1,11 @@
+# ビルドで出来る物
+bin/
+obj/
+*.exe
+*.pdb
+
+# エディタ・OS
+.vs/
+*.user
+Thumbs.db
+desktop.ini
